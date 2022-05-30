@@ -134,3 +134,15 @@ hr {
     position: relative;
     top: 50px;
 }
+
+.yet {
+    text-decoration: underline;
+}
+
+.programming-image {
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin: 20px;
+
+}
